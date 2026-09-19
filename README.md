@@ -18,3 +18,7 @@ They are currently oriented towards:
 uv sync        # creates/activates the environment (uv)
 jupyter lab    # launches Jupyter
 ```
+
+## Credits
+
+The notes are based on **Universal AI** course by **MIT**.
