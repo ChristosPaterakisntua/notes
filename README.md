@@ -19,6 +19,11 @@ uv sync        # creates/activates the environment (uv)
 jupyter lab    # launches Jupyter
 ```
 
-## Credits
+## Citations
 
-The notes are based on **Universal AI** course by **MIT**.
+The notes are based on:
+- **Universal AI** course by **MIT**
+- **Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow** by **Aurélien Géron**
+- **broCodez**
+- **neuralNine**
+- **Sklearn documentation**
