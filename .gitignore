@@ -11,3 +11,6 @@ wheels/
 
 # Excercises
 src/notes/excercises/
+
+# ruff cache
+.ruff_cache/
